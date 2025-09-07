@@ -1,0 +1,25 @@
+{
+  "name": "project_chai_aur_code",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "homepage": "https://github.com/ravikumarnj/project_CAcode#readme",
+  "bugs": {
+    "url": "https://github.com/ravikumarnj/project_CAcode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravikumarnj/project_CAcode.git"
+  },
+  "license": "ISC",
+  "author": "ravi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
